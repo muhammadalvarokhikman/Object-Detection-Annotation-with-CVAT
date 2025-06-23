@@ -2,7 +2,7 @@
 
 https://github.com/user-attachments/assets/7dfe1dbf-744c-4827-a366-45c40b5b96d3
 
-This project demonstrates the creation of an object detection dataset using **CVAT** and training a YOLOv8 model on it.
+This project demonstrates object detection dataset creation using CVAT and YOLOv8 model training.
 
 ## Project Structure
 Object-Detection-Annotation-with-CVAT/
