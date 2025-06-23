@@ -6,13 +6,12 @@ This project demonstrates the creation of an object detection dataset using **CV
 
 ## Project Structure
 Object-Detection-Annotation-with-CVAT/
-├── dataset/ # Contains images/, labels/, and data.yaml
-├── runs/detect/ # YOLOv8 training outputs (metrics, weights)
-├── main.py # YOLOv8 training script
-├── scrapping.ipynb # Image downloader via Unsplash API
-├── yolov8n.pt # Pretrained YOLOv8n model weights
-└── README.md # Project documentation
-
+- dataset/ # Contains images/, labels/, and data.yaml
+- runs/detect/ # YOLOv8 training outputs (metrics, weights)
+- main.py # YOLOv8 training script
+- scrapping.ipynb # Image downloader via Unsplash API
+- yolov8n.pt # Pretrained YOLOv8n model weights
+- README.md # Project documentation
 
 ## 🧠 Model Training (YOLOv8)
 ```python
